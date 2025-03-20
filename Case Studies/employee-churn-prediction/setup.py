@@ -13,7 +13,7 @@ setup(
     description='Employee Churn Prediction Module',
     packages=find_packages(exclude='tests'),
     install_requires=[
-        'h2o==3.16.0.2',
+        'h2o==3.46.0.6',
         'pandas',
         'numpy'
     ]
